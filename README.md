@@ -1,2 +1,6 @@
 # InfoSuave
-#AuxilioNoSeQueHago
+
+# Integrantes:
+# Ignacio Cofre
+# Javier Ramos
+# Felipe Montero
