@@ -12,7 +12,7 @@ body {
 header {
       width: 100%;
       height: 100vh;
-      background: url(homme.jpg) no-repeat 50% 50%;
+      background: url(img/homme.jpg) no-repeat 50% 50%;
       background-size: cover;
 }
 
@@ -30,7 +30,6 @@ nav {
       line-height: 40px;
 }
 
-nav {position: relative !important; z-index: 9999 !important;}
 
 nav .logo {
       line-height: 30px;
