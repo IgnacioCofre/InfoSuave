@@ -91,7 +91,23 @@ nav.black ul li a{
       display: none;
 }
 
+#icon {
+      max-width: 200px;
+      margin: 1% auto;
+}
+
+#carousel-img {
+      max-height: 400px;
+}
+
+.carousel-inner img {
+      margin: auto;
+}
+
 @media(max-width: 786px) {
+      .carousel-caption {
+            display: none;
+      }
 
       .logo {
             position: fixed;
